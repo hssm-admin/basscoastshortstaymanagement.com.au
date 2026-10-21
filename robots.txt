@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basscoastshortstaymanagement.com.au/sitemap.xml
